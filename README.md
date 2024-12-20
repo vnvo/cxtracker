@@ -1,5 +1,6 @@
 CXTracker
-An opinioned tool to evaluate different techniques for Customer Experience tracking and measurement.
+
+An opinioned tool for learning purposes, to evaluate different techniques for Customer Experience tracking and measurement.
 
 # Customer Experience Representation
 The experience of a given user/customer is represented as a vector. Each vector is supposed to be a collection of different measurements, in their raw OR processed format. We then use a set of such a vectors to represent the end user experience of a system, at a given moment in time.
