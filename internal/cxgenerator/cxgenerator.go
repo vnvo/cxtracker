@@ -9,9 +9,9 @@ import (
 
 // Constants defining data generation
 const (
-	nUsers    = 10000 // Number of unique users
-	nServices = 100   // Number of microservices
-	dimension = 200   // Number of features per user vector
+	nUsers    = 100000 // Number of unique users
+	nServices = 100    // Number of microservices
+	dimension = 200    // Number of features per user vector
 	datapath  = "user_behavior_vectors.csv"
 )
 
